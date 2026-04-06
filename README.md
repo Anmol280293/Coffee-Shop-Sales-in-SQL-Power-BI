@@ -227,21 +227,3 @@ DIVIDE(
 Highlighted **weekend growth opportunities**
 
 ---
-
-##  Tech Stack
-
-* **SQL:** Data cleaning, transformation, analysis
-* **Power BI:** Data modeling, DAX, dashboard design
-* **Excel:** Raw data source
-
----
-
-## Skills Demonstrated
-
-* SQL (Joins, Aggregations, Window Functions)
-* Data Modeling (Star Schema)
-* DAX Calculations
-* Business Intelligence
-* Data Storytelling
-
----
